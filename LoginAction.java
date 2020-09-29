@@ -35,7 +35,7 @@ public class LoginAction extends BaseAction
 
     public String execute()
     {
-        //execute////
+        //execute
         HttpServletRequest request = ServletActionContext.getRequest();
         HttpServletResponse response = ServletActionContext.getResponse();
 
