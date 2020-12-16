@@ -1,4 +1,5 @@
 public class AddToCartOrWishListBaseAction extends BaseAction{
+  protected prodId=-1;
   public int getProdId(){
     return prodId;
   }
