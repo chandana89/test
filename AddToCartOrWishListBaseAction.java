@@ -1,4 +1,5 @@
 public int getProdId(){
+  //get
   return prodId;
 }
 
