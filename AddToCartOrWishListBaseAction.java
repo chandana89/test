@@ -1,4 +1,4 @@
-package com.konakart.actions
+package com.konakart.actions;
 
 public class AddToCartOrWishListBaseAction extends BaseAction{
   protected int prodId=-1;
