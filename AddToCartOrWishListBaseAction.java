@@ -3,6 +3,5 @@ public int getProdId(){
 }
 
 public void setProdId(int prodId){
-  //setProdId
   this.prodId=prodId;
 }
