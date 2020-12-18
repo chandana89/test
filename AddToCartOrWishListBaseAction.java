@@ -4,11 +4,11 @@ public class AddToCartOrWishListBaseAction extends BaseAction{
   protected int prodId=-1;
   public int getProdId(){
     //get
-    //comment
     return prodId;
   }
 
   public void setProdId(int prodId){
+    //comment
     this.prodId=prodId;
   }
 }
