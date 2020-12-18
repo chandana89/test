@@ -8,7 +8,7 @@ public class AddToCartOrWishListBaseAction extends BaseAction{
   }
 
   public void setProdId(int prodId){
-    //comment added
+    //comment added1
     this.prodId=prodId;
   }
 }
