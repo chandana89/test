@@ -11,6 +11,7 @@ namespace ImpactedTestScript_CSharp
   {
       public InsertingDocument()
       {
+        //comment
       }
       public void InsertMethods()
       {
