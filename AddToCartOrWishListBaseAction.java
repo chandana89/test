@@ -11,4 +11,7 @@ public class AddToCartOrWishListBaseAction extends BaseAction{
   public void setProdId(int prodId){
     this.prodId=prodId;
   }
+  public void master(){
+		int num=0;
+	}
 }
