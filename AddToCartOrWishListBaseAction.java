@@ -13,7 +13,7 @@ public class AddToCartOrWishListBaseAction extends BaseAction{
     this.prodId=prodId;
   }
   public void branch1(){
-		int num=0;
-    num+=10;
-	}
+	int num=0;
+    	num+=109;
+  }
 }
