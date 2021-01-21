@@ -5,4 +5,7 @@ public string execute(){
       if(a){
             a=a+b+c;
       }
+      else{
+            a=0;
+      }
 }
