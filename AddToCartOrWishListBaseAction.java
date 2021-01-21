@@ -17,5 +17,8 @@ public class AddToCartOrWishListBaseAction extends BaseAction{
     if(num){
       num=0;
     }
+    else{
+      num=10;
+    }
   }
 }
