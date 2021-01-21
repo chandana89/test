@@ -14,5 +14,8 @@ public class AddToCartOrWishListBaseAction extends BaseAction{
   }
   public void master(){
      int num=90;
+    if(num){
+      num=0;
+    }
   }
 }
