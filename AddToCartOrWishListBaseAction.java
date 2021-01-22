@@ -11,6 +11,7 @@ public class AddToCartOrWishListBaseAction extends BaseAction{
   public void setProdId(int prodId){
     //comment added1234
     this.prodId=prodId;
+    int a=1000;
   }
   public void branch1(){
 	int num=0;
