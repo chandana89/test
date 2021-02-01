@@ -13,6 +13,7 @@ namespace ImpactedTestScript_CSharp
       public InsertingDocument()
       {
         int a=100;
+        int a=a+129;
       }
       public void InsertMethods()
       {
