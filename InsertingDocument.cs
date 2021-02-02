@@ -14,6 +14,7 @@ namespace ImpactedTestScript_CSharp
       {
         int a=100;
         int a=a+129;
+        int b=10;
       }
       public void InsertMethods()
       {
