@@ -10,7 +10,7 @@ public class AddToCartOrWishListBaseAction extends BaseAction{
   public void setProdId(int prodId){
     this.prodId=prodId;
   }
-  public void excute(){
+  public void addToCart(KKAppEng, ProductIf, OptionIf[], int){
     //comment
      int num=90;
     if(num){
