@@ -10,7 +10,7 @@ public class AddToCartOrWishListBaseAction extends BaseAction{
   public void setProdId(int prodId){
     this.prodId=prodId;
   }
-  public void master(){
+  public void excute(){
     //comment
      int num=90;
     if(num){
