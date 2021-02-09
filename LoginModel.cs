@@ -7,7 +7,7 @@ namespace Grand.Web.Models.Customer
     public partial class LoginModel : BaseModel
     {
         //login
-        public string CheckoutAsGuet { get; set; }
+        public string CheckoutAsGuest { get; set; }
 
         [DataType(DataType.EmailAddress)]
         [GrandResourceDisplayName("Account.Login.Fields.Email")]
